@@ -429,7 +429,7 @@
 				'about us',
 				'aboutapp',
 				'aboutme',
-				'aboutopenwebui',
+				'aboutiagentic',
 				'aboutpage',
 				'aboutus',
 				'check for updates',

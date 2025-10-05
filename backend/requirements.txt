@@ -66,7 +66,7 @@ elasticsearch==9.1.0
 pinecone==6.0.2
 oracledb==3.2.0
 
-av==14.0.1 # Caution: Set due to FATAL FIPS SELFTEST FAILURE, see discussion https://github.com/open-webui/open-webui/discussions/15720
+av==14.0.1 # Caution: Set due to FATAL FIPS SELFTEST FAILURE, see discussion https://github.com/iagentic/iagentic/discussions/15720
 transformers
 sentence-transformers==5.1.1
 accelerate
@@ -97,10 +97,10 @@ azure-ai-documentintelligence==1.0.2
 
 pillow==11.3.0
 opencv-python-headless==4.11.0.86
-rapidocr-onnxruntime==1.4.4
+rapidocr-onnxruntime
 rank-bm25==0.2.2
 
-onnxruntime==1.20.1
+onnxruntime
 faster-whisper==1.1.1
 
 
